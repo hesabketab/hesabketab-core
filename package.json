@@ -1,0 +1,19 @@
+{
+  "name": "@hesabketab/hesabketab-core",
+  "version": "1.0.0",
+  "description": "Shared files between api and web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hesabketab/hesabketab-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hesabketab/hesabketab-core/issues"
+  },
+  "homepage": "https://github.com/hesabketab/hesabketab-core#readme"
+}
