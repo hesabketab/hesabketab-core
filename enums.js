@@ -39,7 +39,7 @@ module.exports.ROLE = {
 };
 
 // web
-module.exports.RECORD_TYPE = {
+module.exports.PAYMENT_TYPE = {
   DEBT: 'DEBT',
   CREDIT: 'CREDIT',
   BOTH: 'BOTH',
