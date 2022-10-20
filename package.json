@@ -1,6 +1,6 @@
 {
   "name": "@hesabketab/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared files between api and web",
   "main": "index.js",
   "scripts": {
