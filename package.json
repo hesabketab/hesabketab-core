@@ -8,9 +8,9 @@
     "publish-patch": "npm version patch && npm publish",
     "publish-minor": "npm version minor && npm publish",
     "publish-major": "npm version major && npm publish",
-    "ppatch": "gitall . && npm run publish-patch",
-    "pminor": "gitall . && npm run publish-minor",
-    "pmajor": "gitall . && npm run publish-major"
+    "ppatch": "npm run publish-patch",
+    "pminor": "npm run publish-minor",
+    "pmajor": "npm run publish-major"
   },
   "repository": {
     "type": "git",
